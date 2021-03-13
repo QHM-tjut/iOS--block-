@@ -1,0 +1,3 @@
+target 'HMBlockTest' do
+    pod 'Masonry'
+end
